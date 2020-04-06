@@ -1,0 +1,16 @@
+kp_back=2;kd_back=2
+	2, 0x00000002
+finsh >show_parameter()
+kp_center     :  123 kd_center     :  123
+kp_leftt      :    0 kd_leftt      :    0
+kp_rightt     :    0 kd_rightt     :    0
+kp_centerleft :    0 kd_centerleft :    0
+kp_upbridge   :    0 kd_upbridge   :    0
+kp_bridge     :    0 kd_bridge     :    0
+kp_wave       :    0 kd_wave       :    0
+kp_seesaw     :    0 kd_seesaw     :    0
+kp_round      :    0 kd_round      :    0
+kp_slow       :    0 kd_slow       :    0
+kp_back       :    2 kd_back       :    2
+	0, 0x00000000
+finsh >
